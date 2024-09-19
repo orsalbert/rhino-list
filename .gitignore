@@ -1,0 +1,9 @@
+# Django
+backend/backend/__pycache__/
+backend/db.sqlite3
+
+# Node.js
+frontend/node_modules/
+
+# vscode
+.vscode/
